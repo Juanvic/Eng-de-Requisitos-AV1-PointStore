@@ -1,4 +1,1 @@
-Muitas pessoas adquirem pontos de vantagens que ficam estocados e às vezes não são
-utilizados,perdendo a oportunidade de aproveitamento, a solução para isso é o sistema
-PointStore que funciona em multiplataforma, ou seja tanto via web quanto no seu 
-smartphone, e trabalha no comércio de pontos de vantagem entre usuários.
+Muitas pessoas adquirem pontos de vantagens que ficam estocados e às vezes não são utilizados,perdendo a oportunidade de aproveitamento, a solução para isso é o sistema PointStore trabalha no comércio de pontos de vantagem entre usuários, assim as pessoas podem anunciar seus pontos não utilizados para venda ou realizar compra dos mesmos para aproveitar seus benefícios.
