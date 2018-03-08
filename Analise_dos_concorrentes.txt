@@ -1,0 +1,1 @@
+Octoplus: Aplicativo responsável em Gerenciar pontos de fidelidade como milhas aéreas e pontos, focado apenas na parte de gerenciamento 
